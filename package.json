@@ -6,7 +6,7 @@
     "license": "MIT",
     "private": true,
     "dependencies": {
-        "@cap-js-community/odata-v2-adapter": "^1.12.10",
+        "@cap-js-community/odata-v2-adapter": "^1.13.0",
         "@sap/cds": "^7",
         "express": "^4"
     },
