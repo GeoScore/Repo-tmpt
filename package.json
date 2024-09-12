@@ -17,7 +17,7 @@
         "@prettier/plugin-xml": "^3.4.1",
         "@sap/cds-lsp": "^7.9.0",
         "@sap/eslint-plugin-cds": "^3.0.3",
-        "axios": "^1.7.2",
+        "axios": "^1.7.4",
         "cds-swagger-ui-express": "^0.8.0",
         "chai": "^5.1.1",
         "chai-as-promised": "^8.0.0",
